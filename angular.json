@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-ejercicio-formulario"
+    }
+  },
+  "defaultProject": "angular-ejercicio-formulario",
+  "cli": {
+    "analytics": "9db6cb31-abc5-47a1-8299-a9ab397ff4ed"
+  }
 }
